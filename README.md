@@ -150,7 +150,7 @@ This project demonstrates practical experience in:
 - Triggers
 - Views
 - Index Optimization
-- Role-Based Access Control
+- Role Based Access Control
 - Database Backup & Recovery
 - Dashboard Integration (Power BI/Tableau)
 
